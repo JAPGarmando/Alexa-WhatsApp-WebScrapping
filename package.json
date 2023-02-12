@@ -21,7 +21,7 @@
     "@types/nanoid": "^3.0.0",
     "@types/node": "^17.0.21",
     "@types/passport": "^1.0.7",
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.20",
     "sequelize-cli": "^6.2.0"
   }
 }
